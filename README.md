@@ -29,6 +29,4 @@ Some Guidelines/Common Questions
 ECRs are discussing things in the `#postdocs` on slack.  If you don't have access to the ACEMS slack, contact [Jessie Roberts](https://acems.org.au/our-people/jessie-roberts). If you don't get a response to your question on the slack channel, you can contact [Boris Beranger](https://acems.org.au/our-people/boris-beranger).
 
 
-Look forward to seeing 
-
 
