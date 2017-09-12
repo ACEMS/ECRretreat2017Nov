@@ -9,14 +9,15 @@ The programme will include unstructure collaborative sessions, an IP workshop, i
 ## Draft programme
 
 The draft programme can be found in the Wiki, see the tab above or click [here](https://github.com/ACEMS/ECRretreat2017Nov/wiki). We're planning the collaborative research projects and unstructured sessions in the [Issues](https://github.com/ACEMS/ECRretreat2017Nov/issues) tab. Why not head on over, see what people are suggesting, make a few comments and pitch your own idea?
+   
 
-## The Unstructured Sessions
+### The Unstructured Sessions
 These sessions are about collaboration and discussing/working on projects you are interested in. They work like this: 
 1. You add projects you are interested in workingo on to the [Issues](https://github.com/ACEMS/ECRretreat2017Nov/issues) page **before the retreat**.
 2. On day 1, we discuss the project ideas and you decide what you would like to work on.
 3. During the collaborative sessions, you work on your project of interest. 
 
-Some Guidelines/Common Questions 
+**Some Guidelines/Common Questions** 
 * You can change projects as much as you like. 
 * You can work on a project you didn't suggest.
 * There are no expected outcomes.
