@@ -25,6 +25,8 @@ These sessions are about collaboration and discussing/working on projects you ar
 2. On day 1, we discuss the project ideas and you decide what you would like to work on.
 3. During the collaborative sessions, you work on your project of interest. 
 
+head over to the wiki for more details on [Session Planning](https://github.com/ACEMS/ECRretreat2017Nov/wiki/Session-planning)
+
 **Some Guidelines/Common Questions** 
 * You can change projects as much as you like. 
 * You can work on a project you didn't suggest.
