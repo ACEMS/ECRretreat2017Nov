@@ -21,7 +21,7 @@ The programme will include:
    
 ### The Unstructured Collaborative Sessions
 These sessions are about collaboration and discussing/working on projects you are interested in. They work like this: 
-1. You add projects you are interested in working on, or a topic your interseted in discussing to the [Issues](https://github.com/ACEMS/ECRretreat2017Nov/issues) page **before the retreat**. Preceed posts with either `PROJECT:` or `SESSION`.   
+1. You add projects you are interested in working on, or a topic your interseted in discussing to the [Issues](https://github.com/ACEMS/ECRretreat2017Nov/issues) page **before the retreat**. Preceed posts with either `PROJECT:` or `SESSION:`.   
 2. On day 1, we discuss the project ideas and you decide what you would like to work on.
 3. During the collaborative sessions, you work on your project of interest. 
 
