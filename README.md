@@ -10,7 +10,7 @@ The retreat will be as practical as possible with minimal presentations. There w
 The draft programme can be found in the Wiki, see the tab above or click [here](https://github.com/ACEMS/ECRretreat2017Nov/wiki). We're planning the collaborative research projects and round table-esk discussion sessions in the [Issues](https://github.com/ACEMS/ECRretreat2017Nov/issues) tab. Why not head on over, see what people are suggesting, make a few comments and pitch your own idea?   
 
 The programme will include: 
-* Unstructured collaborative sessions
+* Unstructured collaborative projects
 * IP workshop
 * invited speakers
 * mentoring to the PhD students
@@ -21,7 +21,7 @@ The programme will include:
    
 ### The Unstructured Collaborative Sessions
 These sessions are about collaboration and discussing/working on projects you are interested in. They work like this: 
-1. You add projects you are interested in working on to the [Issues](https://github.com/ACEMS/ECRretreat2017Nov/issues) page **before the retreat**.
+1. You add projects you are interested in working on, or a topic your interseted in discussing to the [Issues](https://github.com/ACEMS/ECRretreat2017Nov/issues) page **before the retreat**. Preceed posts with either `PROJECT:` or `SESSION`.   
 2. On day 1, we discuss the project ideas and you decide what you would like to work on.
 3. During the collaborative sessions, you work on your project of interest. 
 
