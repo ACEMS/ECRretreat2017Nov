@@ -7,12 +7,18 @@ The retreat will be as practical as possible with minimal presentations. There w
    
 
 ## Draft programme
+The draft programme can be found in the Wiki, see the tab above or click [here](https://github.com/ACEMS/ECRretreat2017Nov/wiki). We're planning the collaborative research projects and unstructured sessions in the [Issues](https://github.com/ACEMS/ECRretreat2017Nov/issues) tab. Why not head on over, see what people are suggesting, make a few comments and pitch your own idea?   
 
-The programme will include _unstructure collaborative sessions_, an _IP workshop_, _invited speakers_ who will their different career trajectories for quantitative scientists, _getting to know each other sessions_, some _mentoring to the PhD students_, a few _round table discussions_ plus a BBQ and food. 
-
-The draft programme can be found in the Wiki, see the tab above or click [here](https://github.com/ACEMS/ECRretreat2017Nov/wiki). We're planning the collaborative research projects and unstructured sessions in the [Issues](https://github.com/ACEMS/ECRretreat2017Nov/issues) tab. Why not head on over, see what people are suggesting, make a few comments and pitch your own idea?
+The programme will include: 
+* unstructure collaborative sessions
+* IP workshop
+* invited speakers
+* mentoring to the PhD students
+* opportunities to meet other ECRs 
+* round table discussions
+* BBQ, beach and food.   
    
-
+   
 ### The Unstructured Sessions
 These sessions are about collaboration and discussing/working on projects you are interested in. They work like this: 
 1. You add projects you are interested in workingo on to the [Issues](https://github.com/ACEMS/ECRretreat2017Nov/issues) page **before the retreat**.
