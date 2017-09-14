@@ -32,6 +32,8 @@ These sessions are about collaboration and discussing/working on projects you ar
 
 ECRs are discussing things in the `#postdocs` on slack.  If you don't have access to the ACEMS slack, contact [Jessie Roberts](https://acems.org.au/our-people/jessie-roberts). You can also contact [Boris Beranger](https://acems.org.au/our-people/boris-beranger) or one of the ECR Organising Committee at your node (see below). 
 
+
+
 ### Organising Committee 
 Contact these guys if you have any questions. 
 
