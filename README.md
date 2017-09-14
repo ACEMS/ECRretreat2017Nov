@@ -4,10 +4,13 @@ ACEMS Early Career Researchers are getting together.
 
 The retreat will be as practical as possible with minimal presentations. There will be plenty of talks at the Main Retreat and 5 days of talks is too many.   
 
+This is a readme file for the 2017 ECR Retreat Repository. There are two locations you need to check out as a participant of the retreat. 1. the wiki page - which contains handy info about the retreat, and 2. the issues page - which is were you can post project ideas.    
    
 
 ## Draft programme
-The draft programme can be found in the Wiki, see the tab above or click [here](https://github.com/ACEMS/ECRretreat2017Nov/wiki). We're planning the collaborative research projects and round table-esk discussion sessions in the [Issues](https://github.com/ACEMS/ECRretreat2017Nov/issues) tab. Why not head on over, see what people are suggesting, make a few comments and pitch your own idea?   
+The draft programme can be found in the Wiki, see the tab above 
+
+We're planning the collaborative research projects and discussion sessions. These are sessions you contribute to. more details about these sessions are on the wiki, but head over [Issues](https://github.com/ACEMS/ECRretreat2017Nov/issues) tab now and post some ideas. 
 
 The programme will include: 
 * Unstructured collaborative projects
