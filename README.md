@@ -4,6 +4,8 @@ ACEMS Early Career Researchers are getting together.
 
 The retreat will be as practical as possible with minimal presentations. There will be plenty of talks at the Main Retreat and 5 days of talks is too many.
 
+There are two important resources on this wiki page - The wiki and issues. 
+
 ## The Wiki 
 All information and detail for the retreat are housed on the Repository wiki. See the tab above. You will find information about the programme, how to suggest an idea, how the unstructured and collabortive sessions will work as well as other housekeep info. 
 
