@@ -1,5 +1,7 @@
 # ECRretreat2017Nov
 
+*REGISTRATIONS WILL CLOSE FRIDAY OCTOBER 6TH* - [REGISTER HERE](https://www.eventbrite.com/myevent?eid=37026340782)   
+
 ACEMS Early Career Researchers are getting together.
 
 The retreat will be as practical as possible with minimal presentations. There will be plenty of talks at the Main Retreat and 5 days of talks is too many.
