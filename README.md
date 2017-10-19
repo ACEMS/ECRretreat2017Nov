@@ -9,9 +9,8 @@ The retreat will be as practical as possible with minimal presentations. There w
 There are two important resources on this wiki page - The wiki and issues. 
 
 ## The Wiki 
-All information and detail for the retreat are housed on the Repository wiki. See the tab above. You will find information about the programme, how to suggest an idea, how the unstructured and collabortive sessions will work as well as other housekeep info. 
-
-[Wiki](https://github.com/ACEMS/ECRretreat2017Nov/wiki) for all the retreat details and information, and check out the [Issues](https://github.com/ACEMS/ECRretreat2017Nov/issues) page to see what collaborative projects people are suggesting. 
+All information and details for the retreat are housed on this repository's [wiki](https://github.com/ACEMS/ECRretreat2017Nov/wiki/). See the tab above. You will find information about the programme, how to suggest an idea for a session or project on the [Issues page](https://github.com/ACEMS/ECRretreat2017Nov/issues), how these unstructured and collaborative sessions will work, as well as other housekeeping info. 
+ 
    
 
 ## Programme
