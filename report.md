@@ -81,7 +81,8 @@ Feedback from students was that they appreciated getting the opportunity to talk
 
 ### 9 - Challenges faced by ECRs
 
-Azam Asanjarani
+This session was ran by Azam Asanjarani. In this session, we consider some challenges faced by ECRs such as supervision of students, best way of starting a fruitful collaboration, doubt about academic carrier, and how become prepared for an academic job interview. There were more than 10 ECRs in this session and we enjoyed learning from Prof. Matt Wand’s and Prof. Robert Kohn’s comments and experiences.
+
 
 ### 10 - HMMs, DBNs
 
