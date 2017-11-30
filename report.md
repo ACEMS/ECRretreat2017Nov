@@ -86,6 +86,8 @@ This session was ran by Azam Asanjarani. In this session, we consider some chall
 
 ### 10 - HMMs, DBNs
 
+Paul Wu
+
 ### 12/19 - GitHub and R packages
 
 Nick Tierney
@@ -100,3 +102,4 @@ Brodie Lawson
 
 ### 27 Athlete data
 
+Paul Wu
