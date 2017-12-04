@@ -98,7 +98,11 @@ Nick Tierney
 
 ### 18 Egg Packing Competition
 
-Brodie Lawson
+The egg packing competition was a competition (with prizes!) made available to ACEMS students. After some interest from some of the Postdocs, a separate competition was also made available to that group. The basic page for the problem is [here](https://acems.org.au/2017-student-competition) and the page created for the Postdocs is [here](https://acemsproblemsolvingcomp2017.wordpress.com). In both cases, the goal is the same - given a set of points on a 2D square, each with an associated circle of given radius, we must find the largest number of these circles we can "turn on" in order to maximise the area covered. This is referred to as "egg packing" because the provided application was a set of locations for a frog to lay her eggs such that the maximum number of eggs would be able to grow to full size. To give an idea of the scope of the problem, the postdoc competition involved 100,000 possible sites, and good solutions were turning on 2100+ sites - there are a very large number of possible combinations and only a small fraction of the sites will end up turned on.
+
+We used the opportunity of the retreat to compare and contrast the submitted solutions to the postdoc side of the competition, then coded up the submitted algorithms in a consistent framework so we could compare their solution-finding performance and timings. These varied from a simple greedy algorithm with a clever piece of intuition that allowed for the generation of surprisingly good results, to an algorithm that sought to gradually explore very large numbers of possible states, whilst guaranteeing that the solutions it generated never grew worse. The decision was reached to write up the problem and the techniques applied to solve it in a more formal fashion - at least as a full blog post, or possibly a conference or arxiv article. To this end, we investigated what possible links there are between this problem and others of mathematical interest, also noting that the problem can be formulated exactly as an integer programming problem. Our discussions at the retreat culminated with a presentation.
+
+Primary members of this Project group were Brodie Lawson, Wilson Chen, Ross McVinish and Slava Vaisman, although many others did also contribute!
 
 ### 27 Athlete data
 
