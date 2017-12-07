@@ -4,7 +4,7 @@
 
 This document lists the activities of the November 2017 ECR Retreat, particularly the project and discussion sessions. The retreat was held Sunday 29 October 2017 - Wednesday 1 November 2017. The timetable for the retreat is below.
 
-### Sunday
+### Sunday 29 October 2017
 
 | Start | End     | Activity    |
 | :---- | :------ | :---------- |
@@ -12,7 +12,9 @@ This document lists the activities of the November 2017 ECR Retreat, particularl
 
 Please note that [public consumption of alcohol is illegal in Queensland](https://mypolice.qld.gov.au/goldcoast/2015/12/19/drinking-public-place-think/) and punishable by a $117 fine.
 
-### Monday (Level 1, Apollo room 2 and 3)
+### Monday 30 October 2017 
+
+Level 1, Apollo room 2 and 3
 
 | Start | End     | Activity    |
 | :---- | :------ | :---------- |
@@ -30,7 +32,7 @@ Please note that [public consumption of alcohol is illegal in Queensland](https:
 
 \* Cross over with student retreat   
    
-### Tuesday
+### Tuesday 1 November 2017
 
 | Start | End     | Activity    |
 | :---- | :------ | :---------- |
@@ -46,7 +48,8 @@ Please note that [public consumption of alcohol is illegal in Queensland](https:
 | 18:00 | Late | Social evening with Invited Speakers (The Island, Cnr. Surfer Paradise Blvd & Beach Rd - self catered)|
 
 \* Cross over with student retreat
-### Wednesday
+
+### Wednesday 2 November 2017
 
 | Start | End     | Activity    |
 | :---- | :------ | :---------- |
@@ -64,7 +67,7 @@ If you ran one of the project sessions, it is anticipated that you will edit thi
 
 Project proposals are available at the [Issues page](https://github.com/ACEMS/ECRretreat2017Nov/issues) and the proramme at [the Wiki](https://github.com/ACEMS/ECRretreat2017Nov/wiki/Programme). Use the issue number in the header to help identify which session it was.
 
-### 1/14 Teaching and Writing a book
+### Sessions 1/14 - Teaching and Writing a book
 
 These two sessions were run by Sam Clifford with participants Brodie Lawson, Tarunendu Mapder, Azam Asanjarani, Nick Tierney, Arthur Hung, Ross McVinish. In the first session, we discussed the issues around engaging students in first year service units, identifying and overcoming lack of background knowledge, designing teaching materials around problem based learning, live coding to show that teaching staff are capable of mistakes, whether we have the freedom to develop our own lecture material and whether this includes the case when there is no expectation as to content and approach from the school.
 
@@ -73,30 +76,30 @@ The second session, on writing a book, was focussed on the development of a book
 A GitHub repo and Slack channel have been created for Sam, Azam, Arthur, Tarun, Jessie Roberts and Nick to continue work on this project.
 
 
-### 2 - Speed dating
+### Session 2 - Speed dating
 
 This session was run by Sam Clifford at the Monday evening BBQ jointly with the PhD students. 40 minutes was spent at the park using a lottery system (pairs with raffle tickets) to give the PhD students and ECRs some time to ask questions of each other about what kind of research they did as well as what research life is like. A bag of question prompts was made available for when participants couldn't think of what to say.
 
 Feedback from students was that they appreciated getting the opportunity to talk to one or two postdocs and even to discuss their issues one on one with each other. Postdocs enjoyed the experience of talking to the students and getting to know the wider ACEMS community. It was heartening that after the session itself had wrapped up students and postdocs continued talking to each other throughout the BBQ. This format would be repeatable in the future and would be good to have some AIs and CIs available to have contact with the other levels of ACEMS.
 
-### 9 - Challenges faced by ECRs
+### Session 9 - Challenges faced by ECRs
 
 This session was ran by Azam Asanjarani. In this session, we consider some challenges faced by ECRs such as supervision of students, best way of starting a fruitful collaboration, doubt about academic carrier, and how become prepared for an academic job interview. There were more than 10 ECRs in this session and we enjoyed learning from Prof. Matt Wand’s and Prof. Robert Kohn’s comments and experiences.
 
 
-### 10 - HMMs, DBNs
+### Session 10 - HMMs, DBNs
 
 Paul Wu
 
-### 12/19 - GitHub and R packages
+### Session 12/19 - GitHub and R packages
 
 Nick Tierney
 
-### 13 - Data, data everywhere
+### Session 13 - Data, data everywhere
 
 Nick Tierney
 
-### 18 Egg Packing Competition
+### Session 18 Egg Packing Competition
 
 The egg packing competition was a competition (with prizes!) made available to ACEMS students. After some interest from some of the Postdocs, a separate competition was also made available to that group. The basic page for the problem is [here](https://acems.org.au/2017-student-competition) and the page created for the Postdocs is [here](https://acemsproblemsolvingcomp2017.wordpress.com). In both cases, the goal is the same - given a set of points on a 2D square, each with an associated circle of given radius, we must find the largest number of these circles we can "turn on" in order to maximise the area covered. This is referred to as "egg packing" because the provided application was a set of locations for a frog to lay her eggs such that the maximum number of eggs would be able to grow to full size. To give an idea of the scope of the problem, the postdoc competition involved 100,000 possible sites, and good solutions were turning on 2100+ sites - there are a very large number of possible combinations and only a small fraction of the sites will end up turned on.
 
@@ -104,6 +107,6 @@ We used the opportunity of the retreat to compare and contrast the submitted sol
 
 Primary members of this Project group were Brodie Lawson, Wilson Chen, Ross McVinish and Slava Vaisman, although many others did also contribute!
 
-### 27 Athlete data
+### Session 27 Athlete data
 
 Paul Wu
