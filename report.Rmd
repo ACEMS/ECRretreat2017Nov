@@ -3,8 +3,8 @@ title: "Report on activities of ACEMS Early Career Researcher Retreat"
 author: "Sam Clifford"
 date: "18 December 2017"
 output:
-  word_document: default
-  keep_md: yes
+  word_document: 
+    keep_md: yes
 ---
 
 # Introduction

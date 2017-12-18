@@ -1,23 +1,28 @@
-# Report on activities of ECR Retreat
+# Report on activities of ACEMS Early Career Researcher Retreat
+Sam Clifford  
+18 December 2017  
 
-## Introduction
+# Introduction
 
-This document lists the activities of the November 2017 ECR Retreat, particularly the project and discussion sessions. The retreat was held Sunday 29 October 2017 - Wednesday 1 November 2017. The timetable for the retreat is below.
+This document lists the activities of the November 2017 ECR Retreat, particularly the project and discussion sessions. The retreat was held Sunday 29 October 2017 - Wednesday 1 November 2017. 
 
-### Sunday 29 October 2017
+The retreat was organised by Boris Beranger (UNSW), Sam Clifford and Miles McBain (QUT), Ross McVinish and Azam Asanjarani (UQ), Dinesha Ranathunga (Uni Adelaide), Eric Zhou (Monash), and Wilson Chen (UTS) with additional support from Jessie Roberts (QUT).
+
+
+# Schedule
+
+## Sunday 29 October 2017
 
 | Start | End     | Activity    |
-| :---- | :------ | :---------- |
+| :---- | :------ | :------------------------------------------------------- |
 | from 15:00 | | Welcome BBQ (at [Eileen Peters Park](https://www.google.com.au/maps/place/5+Esplanade,+Queensland/@-28.0049404,153.4293357,17z/data=!3m1!4b1!4m12!1m6!3m5!1s0x0:0xa9806b71e3bf699e!2sKurrawa+Park!8m2!3d-28.028072!4d153.4343613!3m4!1s0x6b91050cc0f38e57:0xc16dd882582c454c!8m2!3d-28.004941!4d153.4315497), Cnr of Northcliffe Tce & Laycock St, Surfers Paradise)|
 
-Please note that [public consumption of alcohol is illegal in Queensland](https://mypolice.qld.gov.au/goldcoast/2015/12/19/drinking-public-place-think/) and punishable by a $117 fine.
-
-### Monday 30 October 2017 
+## Monday 30 October 2017 
 
 Level 1, Apollo room 2 and 3
 
 | Start | End     | Activity    |
-| :---- | :------ | :---------- |
+| :---- | :------ | :------------------------------------------------------- |
 | 9:00 | 10:00 | Welcome + Introductions + Identifying Research Projects|
 | 10:00 | 10:30 | Morning Tea |
 | 10:30 | 11:00 | Facilitated Discussion of Project Ideas | 
@@ -32,10 +37,10 @@ Level 1, Apollo room 2 and 3
 
 \* Cross over with student retreat   
    
-### Tuesday 1 November 2017
+## Tuesday 31 October 2017
 
 | Start | End     | Activity    |
-| :---- | :------ | :---------- |
+| :---- | :------ | :------------------------------------------------------- |
 | 9:00 | 9:45 | Welcome + Identifying Research Projects|
 | 9:45 | 10:00 | Work on Collaborative Projects |
 | 10:00 | 10:30 | Morning Tea |
@@ -49,10 +54,10 @@ Level 1, Apollo room 2 and 3
 
 \* Cross over with student retreat
 
-### Wednesday 2 November 2017
+## Wednesday 1 November 2017
 
 | Start | End     | Activity    |
-| :---- | :------ | :---------- |
+| :---- | :------ | :------------------------------------------------------- |
 | 9:00 | 10:00 | Work on Collaborative Projects (Final preparation before presenting to the group) | 
 | 10:00 | 10:30 | Morning Tea |
 | 10:30 | 11:30 | Group Presentations on Your Week's Work |
@@ -61,13 +66,28 @@ Level 1, Apollo room 2 and 3
 
 \* Cross over with student retreat
 
-## Project sessions
+# Project sessions
 
-If you ran one of the project sessions, it is anticipated that you will edit this file to give a short report on how the session went, who was involved, what outcomes were achieved and what the plan for the future is.
+The following instructions were given to participants about proposing sessions for the retreat:
 
-Project proposals are available at the [Issues page](https://github.com/ACEMS/ECRretreat2017Nov/issues) and the proramme at [the Wiki](https://github.com/ACEMS/ECRretreat2017Nov/wiki/Programme). Use the issue number in the header to help identify which session it was.
+These sessions are about collaboration and discussing/working on projects you are interested in. They work like this:
 
-### Sessions 1/14 - Teaching and Writing a book
+1. You add projects you are interested in working on, or a topic your interseted in discussing to the [Issues](https://github.com/ACEMS/ECRretreat2017Nov/issues) page **before the retreat**. Precede posts with either `PROJECT:` or `SESSION:` 
+2. On day 1, we discuss the project ideas and you decide what you would like to work on.
+3. During the collaborative sessions, you work on your project of interest.
+
+The following instructions were given to participants about participating in sessions:
+
+* You can change projects as much as you like. 
+* You can work on a project you didn't suggest.
+* There are no expected outcomes.
+* You are not expected to finish the project by the end of the retreat. 
+* The aim is to learn new skills, meet new collaborators, work on a project you find interesting. 
+
+
+Project proposals are available at the [Issues page](https://github.com/ACEMS/ECRretreat2017Nov/issues) and the proramme at [the Wiki](https://github.com/ACEMS/ECRretreat2017Nov/wiki/Programme). The session number corresponds to the item on the Issues page.
+
+## Sessions 1/14 - Teaching and Writing a book
 
 These two sessions were run by Sam Clifford with participants Brodie Lawson, Tarunendu Mapder, Azam Asanjarani, Nick Tierney, Arthur Hung, Ross McVinish. In the first session, we discussed the issues around engaging students in first year service units, identifying and overcoming lack of background knowledge, designing teaching materials around problem based learning, live coding to show that teaching staff are capable of mistakes, whether we have the freedom to develop our own lecture material and whether this includes the case when there is no expectation as to content and approach from the school.
 
@@ -76,18 +96,17 @@ The second session, on writing a book, was focussed on the development of a book
 A GitHub repo and Slack channel have been created for Sam, Azam, Arthur, Tarun, Jessie Roberts and Nick to continue work on this project.
 
 
-### Session 2 - Speed dating
+## Session 2 - Speed dating
 
 This session was run by Sam Clifford at the Monday evening BBQ jointly with the PhD students. 40 minutes was spent at the park using a lottery system (pairs with raffle tickets) to give the PhD students and ECRs some time to ask questions of each other about what kind of research they did as well as what research life is like. A bag of question prompts was made available for when participants couldn't think of what to say.
 
 Feedback from students was that they appreciated getting the opportunity to talk to one or two postdocs and even to discuss their issues one on one with each other. Postdocs enjoyed the experience of talking to the students and getting to know the wider ACEMS community. It was heartening that after the session itself had wrapped up students and postdocs continued talking to each other throughout the BBQ. This format would be repeatable in the future and would be good to have some AIs and CIs available to have contact with the other levels of ACEMS.
 
-### Session 9 - Challenges faced by ECRs
+## Session 9 - Challenges faced by ECRs
 
-This session was ran by Azam Asanjarani. In this session, we consider some challenges faced by ECRs such as supervision of students, best way of starting a fruitful collaboration, doubt about academic carrier, and how become prepared for an academic job interview. There were more than 10 ECRs in this session and we enjoyed learning from Prof. Matt Wand’s and Prof. Robert Kohn’s comments and experiences.
+This session was ran by Azam Asanjarani. In this session, we consider some challenges faced by ECRs such as supervision of students, best way of starting a fruitful collaboration, doubt about academic carrier, and how become prepared for an academic job interview. There were more than 10 ECRs in this session and we enjoyed learning from Prof. Matt Wand's and Prof. Robert Kohn's comments and experiences.
 
-
-### Session 10 - HMMs, DBNs
+## Session 10 - HMMs, DBNs
 
 This session was run by Paul Wu and was attended by Rhys Bowden, Jing Fu and Robert Kohn
 
@@ -96,7 +115,7 @@ This session was run by Paul Wu and was attended by Rhys Bowden, Jing Fu and Rob
 * Side discussion on paths in Markov random fields (headed by Jing).
 * Separate discussion with Robert Kohn who was interested in future collaboration along the lines of variational Bayes and incorporating a loss function to enable optimisation (eg. absolute difference between baseline trajectory and dredging trajectory). 
 
-### Sessions 12/19 - GitHub and R packages
+## Sessions 12/19 - GitHub and R packages
 
 Researchers often write code to perform an analysis. When writing code, it is
 quite natural to have to run similar batches of code. For example, getting the
@@ -140,7 +159,7 @@ which would cover skills on using git, github, the unix shell, and R
 programming, and literature programming (using Rmarkdown). Please contact Nick
 Tierney (nicholas.tierney@gmail.com) to discuss this further.
 
-### Session 13 - Data, data everywhere
+## Session 13 - Data, data everywhere
 
 Nick Tierney
 
@@ -156,7 +175,7 @@ We put together a proposal for how the ACEMS website could list projects, papers
 -   Person ID: ID for each researcher (ORCID?)
 -   Project ID: ID for each project that they work on (ARC code, or > equivalent)
 -   Data ID: DOI to each data set (or placeholder)
--   Have a “keywords” search, so we can search the datasets
+-   Have a "keywords" search, so we can search the datasets
 
 We then discussed how it would be useful to have more discussions about data within ACEMS, with one idea being that ACEMS could discuss, and possibly even make a public statement about data sharing and data formatting. This could, for example, discuss data from organisations such as BOM, or police data, which in Australia are severely lacking in terms of data access, compared to the USA.
 
@@ -164,11 +183,11 @@ We then discussed how ACEMS could connect up with other centres to share data, R
 
 We also discussed that ACEMS should promote data sharing, and could perhaps use services such as:
 
-- DOI issuing service (in line with “Good Enough Practices in Scientific Computing”), like ANDS: http://www.ands.org.au/
+- DOI issuing service (in line with "Good Enough Practices in Scientific Computing"), like ANDS: http://www.ands.org.au/
 - ANDS provides a directory to various data portals https://researchdata.ands.org.au/theme/open-data
 https://researchdata.ands.org.au/search/#!/class=collection/access_rights=open/
 
-### Session 18 - Egg Packing Competition
+## Session 18 - Egg Packing Competition
 
 The egg packing competition was a competition (with prizes!) made available to ACEMS students. After some interest from some of the Postdocs, a separate competition was also made available to that group. The basic page for the problem is [here](https://acems.org.au/2017-student-competition) and the page created for the Postdocs is [here](https://acemsproblemsolvingcomp2017.wordpress.com). In both cases, the goal is the same - given a set of points on a 2D square, each with an associated circle of given radius, we must find the largest number of these circles we can "turn on" in order to maximise the area covered. This is referred to as "egg packing" because the provided application was a set of locations for a frog to lay her eggs such that the maximum number of eggs would be able to grow to full size. To give an idea of the scope of the problem, the postdoc competition involved 100,000 possible sites, and good solutions were turning on 2100+ sites - there are a very large number of possible combinations and only a small fraction of the sites will end up turned on.
 
@@ -176,8 +195,12 @@ We used the opportunity of the retreat to compare and contrast the submitted sol
 
 Primary members of this Project group were Brodie Lawson, Wilson Chen, Ross McVinish and Slava Vaisman, although many others did also contribute!
 
-### Session 27 - Athlete data
+## Session 27 - Athlete data
 
 Two sessions were run by Paul Wu, the first was attended by Steve Psaltis and Ali Tirdad, who were joined in the second session by Rhys Bowden and Jing Fu.
 
 We explored the Athlete Monitoring System (AMS) dataset and the challenges involved in maximising performance whilst minimising risk of injury or illness. Identified some challenges: (i) need some way to make injuries/illness and performance comparable in an objective function for optimisation, (ii) how to correlate instances of training and other activities over time with performance and injury outcomes. Investigated the current dose-response model for training, fatigue and adaptation and how it might be adapted in a probabilistic framework. Potential future collaboration if grants with QAS/AIS get up.
+
+# Conclusion
+
+Informal discussion with workshop participants indicated an appreciation of the unstructured nature of the workshop and a desire to repeat the same approach to planning the next workshop. The organisers suggest that for the next retreat it would be good to have a member of each ACEMS node on the organising committee in order to ensure that all ACEMS ECRs are familiar with the planned structure and engaging with it prior to arrival at the retreat.
