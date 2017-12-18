@@ -89,11 +89,14 @@ This session was ran by Azam Asanjarani. In this session, we consider some chall
 
 ### Session 10 - HMMs, DBNs
 
-Paul Wu
+This session was run by Paul Wu and was attended by Rhys Bowden, Jing Fu and Robert Kohn
+
+* Explained how Dynamic Bayesian Networks work in terms of inferences and their application to complex systems
+* Discussed the issue of inference under uncertainty where the current framework treats evidence as weightings rather than with likelihoods
+* Side discussion on paths in Markov random fields (headed by Jing).
+* Separate discussion with Robert Kohn who was interested in future collaboration along the lines of variational Bayes and incorporating a loss function to enable optimisation (eg. absolute difference between baseline trajectory and dredging trajectory). 
 
 ### Sessions 12/19 - GitHub and R packages
-
-Nick Tierney
 
 Researchers often write code to perform an analysis. When writing code, it is
 quite natural to have to run similar batches of code. For example, getting the
@@ -175,4 +178,6 @@ Primary members of this Project group were Brodie Lawson, Wilson Chen, Ross McVi
 
 ### Session 27 - Athlete data
 
-Paul Wu
+Two sessions were run by Paul Wu, the first was attended by Steve Psaltis and Ali Tirdad, who were joined in the second session by Rhys Bowden and Jing Fu.
+
+We explored the Athlete Monitoring System (AMS) dataset and the challenges involved in maximising performance whilst minimising risk of injury or illness. Identified some challenges: (i) need some way to make injuries/illness and performance comparable in an objective function for optimisation, (ii) how to correlate instances of training and other activities over time with performance and injury outcomes. Investigated the current dose-response model for training, fatigue and adaptation and how it might be adapted in a probabilistic framework. Potential future collaboration if grants with QAS/AIS get up.
