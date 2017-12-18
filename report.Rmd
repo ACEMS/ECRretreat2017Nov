@@ -4,6 +4,7 @@ author: "Sam Clifford"
 date: "18 December 2017"
 output:
   word_document: default
+  keep_md: yes
 ---
 
 # Introduction
